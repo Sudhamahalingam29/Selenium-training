@@ -1,0 +1,8 @@
+<suite name="MyFirstTestsuite">
+<test name="MyFirstTest">
+<classes>
+<class name="programone_Testng.BasicAnnotations"/>
+<class name="programone_Testng.dataprovide_example"/>
+</classes>
+</test>
+</suite>

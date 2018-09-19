@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69509" started-at="2018-09-19T05:16:50Z" finished-at="2018-09-19T05:17:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69509" started-at="2018-09-19T05:16:50Z" finished-at="2018-09-19T05:17:59Z">
+      <class name="day_3_training.Cookies$Testcase1">
+        <test-method status="PASS" signature="addCookie()[pri:0, instance:day_3_training.Cookies$Testcase1@724af044]" name="addCookie" duration-ms="69400" started-at="2018-09-19T05:16:50Z" finished-at="2018-09-19T05:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCookie -->
+      </class> <!-- day_3_training.Cookies$Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
